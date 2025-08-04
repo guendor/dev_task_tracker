@@ -35,3 +35,4 @@ Since this project uses Python's built-in `sqlite3` library, no external package
     ```
 
 ## Demo
+<img width="164" height="169" alt="image" src="https://github.com/user-attachments/assets/a3f08707-dd12-4784-ab85-71ebc16cee6b" />
